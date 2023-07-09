@@ -28,7 +28,7 @@ python app.py
 
 ## Additional Information
 
-- The detection algorithm used in this project is based on state-of-the-art computer vision techniques and trained on relevant datasets.(For the dataset which this program is trained is in Main branch switch to main branch there you can download the datasets).
+- The detection algorithm used in this project is based on state-of-the-art computer vision techniques and trained on relevant datasets. 
 
 - The performance and accuracy of the detection algorithm may vary based on various factors such as image quality, lighting conditions, and the presence of noise.
 
